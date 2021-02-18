@@ -25,12 +25,13 @@ require (
 	github.com/golangci/errcheck v0.0.0-20181223084120-ef45e06d44b6
 	github.com/golangci/go-misc v0.0.0-20180628070357-927a3d87b613
 	github.com/golangci/gofmt v0.0.0-20190930125516-244bba706f1a
-	github.com/golangci/ineffassign v0.0.0-20190609212857-42439a7714cc
+	github.com/golangci/ineffassign v0.0.0-20190609212857-42439a7714cc // indirect
 	github.com/golangci/lint-1 v0.0.0-20191013205115-297bf364a8e0
 	github.com/golangci/maligned v0.0.0-20180506175553-b1d89398deca
 	github.com/golangci/misspell v0.0.0-20180809174111-950f5d19e770
 	github.com/golangci/revgrep v0.0.0-20210208091834-cd28932614b5
 	github.com/golangci/unconvert v0.0.0-20180507085042-28b1c447d1f4
+	github.com/gordonklaus/ineffassign v0.0.0-20210209182638-d0e41b2fc8ed
 	github.com/jgautheron/goconst v0.0.0-20201117150253-ccae5bf973f3
 	github.com/jingyugao/rowserrcheck v0.0.0-20210130005344-c6a0c12dd98d
 	github.com/jirfag/go-printf-func-name v0.0.0-20191110105641-45db9963cdd3
